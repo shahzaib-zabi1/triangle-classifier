@@ -1,1 +1,1 @@
-# How Bugs will be reported in Github, Apply debugging
+# How Bugs will be reported in Github.
